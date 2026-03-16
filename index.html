@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Rueda | El fin del caos en las grupetas</title>
+    <meta name="description" content="La app coruñesa para organizar tus salidas en bici. Únete a la beta privada.">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        asfalto: '#1A1C1E',
+                        cian: '#00E5FF',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-gray-50 text-asfalto font-sans antialiased selection:bg-cian selection:text-asfalto">
+
+    <header class="bg-asfalto text-white pt-20 pb-24 px-6 text-center">
+        <div class="max-w-4xl mx-auto">
+            
+            <img src="logo.png" alt="Logo A Rueda" class="h-32 md:h-40 mx-auto mb-10 drop-shadow-[0_0_15px_rgba(0,229,255,0.3)] object-contain">
+            
+            <h1 class="text-5xl md:text-6xl font-extrabold mb-6 tracking-tight leading-tight">
+                Encuentra tu <span class="text-cian">rueda</span> perfecta.
+            </h1>
+            <p class="text-lg md:text-xl text-gray-400 mb-10 max-w-2xl mx-auto leading-relaxed">
+                Matamos los grupos de WhatsApp interminables. Crea tus quedadas, filtra por ritmo, organiza los coches y encuentra tu pelotón ideal. <br><strong class="text-white">Estamos en Beta Privada.</strong>
+            </p>
+
+            <div class="flex flex-col items-center justify-center gap-4 mt-8">
+                <a href="ARueda_Beta.apk" download="ARueda_Beta.apk" class="flex items-center justify-center gap-3 bg-cian text-asfalto px-10 py-4 rounded-xl font-bold hover:bg-cyan-400 transition shadow-lg hover:-translate-y-1 transform duration-200">
+                    <i class="fa-solid fa-download text-2xl"></i>
+                    <div class="text-left">
+                        <div class="text-[10px] uppercase tracking-wider opacity-80 font-bold">Acceso Directo</div>
+                        <div class="text-xl leading-none">Descargar APK Android</div>
+                    </div>
+                </a>
+                
+                <p class="text-gray-400 text-sm max-w-sm mt-2">
+                    <i class="fa-solid fa-circle-info text-cian mr-1"></i> 
+                    Al instalar, tu móvil te pedirá permiso para instalar apps de "orígenes desconocidos". Es normal por estar en Beta.
+                </p>
+            </div>
+        </div>
+    </header>
+
+    <section class="py-20 px-6 max-w-6xl mx-auto">
+        <div class="grid md:grid-cols-3 gap-12 text-center">
+            
+            <div>
+                <div class="w-14 h-14 mx-auto bg-cian/10 rounded-xl flex items-center justify-center mb-6 text-asfalto">
+                    <i class="fa-solid fa-gauge-high text-2xl"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-3">Pace-Score</h3>
+                <p class="text-gray-600">Se acabaron los calentones sorpresa. Vota si el creador clavó el ritmo prometido o si os llevó con el gancho.</p>
+            </div>
+
+            <div>
+                <div class="w-14 h-14 mx-auto bg-cian/10 rounded-xl flex items-center justify-center mb-6 text-asfalto">
+                    <i class="fa-solid fa-car text-2xl"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-3">Logística de Coches</h3>
+                <p class="text-gray-600">"¿Quién lleva coche? ¿Me llevas?" Todo resuelto dentro de la app con un solo clic. Cero mensajes de WhatsApp.</p>
+            </div>
+
+            <div>
+                <div class="w-14 h-14 mx-auto bg-cian/10 rounded-xl flex items-center justify-center mb-6 text-asfalto">
+                    <i class="fa-solid fa-shield-halved text-2xl"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-3">Clubes y Alianzas</h3>
+                <p class="text-gray-600">Crea quedadas exclusivas para tu club o forma alianzas con otras grupetas locales para salidas masivas.</p>
+            </div>
+
+        </div>
+    </section>
+
+    <footer class="bg-gray-100 py-12 px-6 border-t border-gray-200">
+        <div class="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
+            <div class="text-gray-500 font-medium">
+                © 2026 A Rueda App. Hecho con <i class="fa-solid fa-bicycle text-asfalto mx-1"></i> y <i class="fa-solid fa-mug-hot text-asfalto mx-1"></i>
+            </div>
+            
+            <div class="flex flex-wrap justify-center gap-6 text-sm font-bold text-gray-500">
+                <a href="https://drive.google.com/file/d/1pzuDhi-rPMA2PQFY-UzzCPOa1RUwtKjY/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cian transition">Aviso Legal</a>
+                <a href="https://drive.google.com/file/d/1_meXHq3cb3carmld5VHgHYALxxLa-W6H/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cian transition">Términos de Uso</a>
+                <a href="https://drive.google.com/file/d/1cuxvcVM5N19vSHOWzx1q_mdpSHKV8vEk/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="hover:text-cian transition">Privacidad</a>
+                <a href="mailto:soporte@arueda.app" class="hover:text-cian transition">Contacto</a>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
