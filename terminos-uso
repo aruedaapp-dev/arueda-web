@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Términos y Condiciones - A Rueda</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        h1 {
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            font-size: 1.8em;
+        }
+        h2 {
+            margin-top: 30px;
+            font-size: 1.4em;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul, ol {
+            margin-bottom: 20px;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>TÉRMINOS Y CONDICIONES DE USO DE "A RUEDA"</h1>
+        
+        <p><strong>Última actualización:</strong> 13 de abril de 2026</p>
+
+        <p>Bienvenido a "A Rueda". Lee detenidamente estos Términos y Condiciones (en adelante, los "T&C") antes de registrarte. Al marcar la casilla correspondiente y crear una cuenta, aceptas quedar vinculado legalmente por este contrato. Si no estás de acuerdo con alguna de estas condiciones, no debes utilizar la aplicación.</p>
+
+        <h2>1. Naturaleza del Servicio y Exención General</h2>
+        <p>"A Rueda" NO es un club ciclista, federación, agencia de viajes ni organizador de eventos deportivos. La plataforma opera exclusivamente como un prestador de servicios de la sociedad de la información (intermediario tecnológico) que facilita un "tablón de anuncios" virtual para que deportistas aficionados contacten entre sí.</p>
+        <p>El desarrollador y titular de la app, A Rueda App (en adelante, la "Plataforma"), no interviene, dirige, supervisa ni controla las salidas en bicicleta, las rutas propuestas ni el comportamiento de los usuarios en el mundo real.</p>
+
+        <h2>2. Requisitos de Edad y Registro</h2>
+        <ul>
+            <li><strong>Solo mayores de 18 años:</strong> El uso de esta app está estrictamente restringido a personas mayores de 18 años. Al registrarte, declaras responsablemente que cumples con este requisito. La Plataforma se reserva el derecho de cancelar inmediatamente cualquier cuenta si detecta que pertenece a un menor de edad.</li>
+        </ul>
+        <p>Eres responsable de mantener la confidencialidad de tu contraseña y de toda la actividad que ocurra bajo tu cuenta.</p>
+
+        <h2>3. Asunción de Riesgos Deportivos y Responsabilidad Civil</h2>
+        <p>El ciclismo en vías abiertas y montaña es un deporte de riesgo. Al utilizar la App para unirte o proponer una ruta, el usuario acepta y asume expresa e íntegramente los siguientes puntos:</p>
+        <ul>
+            <li><strong>Riesgo físico y material:</strong> El usuario asume todos los riesgos derivados de la práctica deportiva, incluyendo, sin limitación, caídas, colisiones, lesiones, problemas médicos, daños a su equipo o a terceros, e incluso riesgos mortales.</li>
+            <li><strong>Exención a la Plataforma:</strong> El usuario renuncia explícitamente a reclamar a la Plataforma (y a su titular) cualquier indemnización por daños, perjuicios, lesiones o muerte sufridos durante una salida organizada a través de "A Rueda".</li>
+            <li><strong>Normativa de tráfico y medioambiente:</strong> El usuario es el único responsable de cumplir la Ley de Seguridad Vial, así como las normativas medioambientales y de respeto a la propiedad privada. La Plataforma no verifica la legalidad, viabilidad o seguridad de los archivos .gpx subidos por los usuarios. Si una ruta atraviesa una zona prohibida, es obligación exclusiva del usuario detenerse y buscar una alternativa.</li>
+        </ul>
+
+        <h2>4. Propiedad Intelectual y Contenido Generado por el Usuario</h2>
+        <ul>
+            <li>Al subir rutas, archivos GPS (.gpx), textos o imágenes a "A Rueda", conservas tus derechos de autor, pero otorgas a la Plataforma una licencia mundial, gratuita, no exclusiva y transferible para alojar, reproducir, distribuir y mostrar públicamente dicho contenido dentro de la App.</li>
+            <li>El usuario garantiza que los archivos y descripciones que sube no vulneran derechos de terceros ni promueven actividades ilegales. La Plataforma operará bajo el principio de "conocimiento efectivo" (LSSI/DSA) y retirará cualquier contenido ilícito en cuanto sea notificada.</li>
+        </ul>
+
+        <h2>5. Compartición de Gastos de Transporte (Carpooling)</h2>
+        <p>La función de compartir vehículo para acudir a las rutas tiene como único fin compartir los gastos exactos del viaje (combustible y peajes). "A Rueda" no es un servicio de transporte de pasajeros. Queda estrictamente prohibido obtener lucro o beneficio económico a través de los desplazamientos.</p>
+        <p>La Plataforma no verifica seguros, licencias de conducir ni el estado de los vehículos. Cualquier incidente o accidente de tráfico es responsabilidad exclusiva del conductor y un asunto privado entre los ocupantes.</p>
+
+        <h2>6. Sistema de Valoración, Moderación y Cancelación de Cuentas (DSA)</h2>
+        <p>Para mantener una comunidad segura, la Plataforma aplica las siguientes reglas de moderación:</p>
+        <ul>
+            <li><strong>Sistema de Reputación:</strong> Al registrarte, aceptas someterte al sistema de valoración de la App, basado en criterios objetivos sobre tu rendimiento e historial de asistencia.</li>
+            <li><strong>Normas de la Comunidad:</strong> Queda prohibido el acoso, los insultos, la promoción de conducción temeraria y el uso de la app para fines ilícitos o comerciales.</li>
+            <li><strong>Derecho de Admisión y Moderación:</strong> Conforme a la Ley de Servicios Digitales (DSA), la Plataforma se reserva el derecho de suspender o cancelar cuentas de usuarios. Las decisiones de suspensión no serán arbitrarias; se basarán en reportes reiterados de la comunidad, pruebas de comportamiento peligroso o incumplimiento de estos T&C.</li>
+            <li><strong>Notificación y Recurso:</strong> Si tu cuenta es suspendida, recibirás un correo electrónico con la exposición de motivos. Podrás contestar a dicho correo aportando las pruebas que consideres oportunas para solicitar la revisión de la decisión.</li>
+        </ul>
+
+        <h2>7. Modificaciones y Ley Aplicable</h2>
+        <p>La Plataforma puede modificar estos T&C en cualquier momento. Se notificará a los usuarios de cambios sustanciales a través de la App o por correo electrónico.</p>
+        <p>Este contrato se rige por la legislación española. Para cualquier controversia, y siempre que la ley de consumidores lo permita, las partes se someten a los juzgados y tribunales de la ciudad de A Coruña, España.</p>
+    </div>
+
+</body>
+</html>
