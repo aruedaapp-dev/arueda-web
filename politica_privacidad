@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - A Rueda</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        h1 {
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        /* Estilos básicos para listas */
+        ul, ol {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Política de Privacidad de "A Rueda"</h1>
+
+        <p><strong>Última actualización:</strong> 13 de abril de 2026</p>
+
+        <p>[Última actualización: 12 de 04 de 2026
+La presente Política de Privacidad describe cómo recopilamos, utilizamos y protegemos tus datos personales cuando utilizas la aplicación móvil "A Rueda" (en adelante, la "App"). Al ser una comunidad de matchmaking deportivo, la transparencia sobre el uso de tus datos físicos y de ubicación es nuestra máxima prioridad.]</p>
+
+        <h2>1. ¿Quién es el Responsable del Tratamiento de tus datos?</h2>
+        <p>Al no existir actualmente una sociedad mercantil detrás de la App, el responsable legal del tratamiento de tus datos a título particular es:
+    • Titular: A Rueda App
+    • Dirección a efectos de notificaciones: Rúa Agra do Orzán, nº16, 5ºcnt, 15010, A Coruña (España)
+    • Correo electrónico de contacto: [aruedaapp@gmail.com]</p>
+
+        <h2>2. ¿Qué datos recopilamos?</h2>
+        <p>Para que "A Rueda" funcione correctamente, necesitamos recopilar los siguientes datos:
+    • Datos de Cuenta: Correo electrónico, contraseña encriptada y nombre de usuario/alias.
+    • Datos de Salud y Rendimiento (Categorías Especiales): Tu nivel físico, medido en Vatios por kilo (W/kg). Si en el futuro conectas aplicaciones de terceros (como Strava), recopilaremos los datos de rendimiento deportivo que autorices explícitamente.
+    • Datos de Ubicación: Información sobre tu ubicación geográfica local para mostrarte rutas cercanas y emparejarte con ciclistas de tu zona.
+    • Datos de Interacción: Las valoraciones anónimas que recibas de otros usuarios (Pace-Score) y las rutas (.gpx) que decidas subir a la plataforma.
+    • Datos Técnicos: Dirección IP, modelo de dispositivo y sistema operativo para garantizar la seguridad y el correcto funcionamiento de la App.</p>
+
+        <h2>3. ¿Para qué usamos tus datos y cuál es la base legal? </h2>
+        <p>Tratamos tus datos exclusivamente para los siguientes fines, amparados en las siguientes bases legales (Art. 6 y Art. 9 del RGPD):
+    1. Creación y gestión de tu cuenta: Para darte acceso a la App. Base legal: Ejecución del contrato (Términos y Condiciones).
+    2. Matchmaking y emparejamiento deportivo: Para mostrar tu nivel físico (W/kg) a otros usuarios y conectarte con ciclistas de tu mismo nivel. Base legal: Tu consentimiento explícito y separado otorgado en el momento del registro.
+    3. Geolocalización: Para mostrarte el punto de inicio de las rutas y ciclistas cercanos. Base legal: Tu consentimiento otorgado a través de los permisos de tu sistema operativo (iOS/Android).
+    4. Moderación y seguridad: Para expulsar a usuarios que incumplan las normas o reciban valoraciones de conducción temeraria. Base legal: Nuestro interés legítimo en mantener una comunidad segura.</p>
+
+         <h2>4. ¿Con quién compartimos tus datos? </h2>
+        <p>Como norma general, no vendemos ni alquilamos tus datos a terceros. Sin embargo, para que la App funcione, tus datos se comparten de la siguiente manera:
+    • Con otros usuarios de la App: Tu nombre de usuario, nivel físico (W/kg) y reputación son públicos dentro de la comunidad. Al aceptar esta política, entiendes que la naturaleza de la App exige esta visibilidad.
+    • Con proveedores de servicios (Encargados del Tratamiento): Utilizamos servidores y bases de datos de terceros (ej. Google Firebase) para alojar la App. Estos proveedores cumplen con los estándares de seguridad del RGPD.
+    • Con autoridades legales: Solo compartiremos tus datos (incluyendo registros de IP o rutas) si recibimos un requerimiento formal, motivado y por escrito de las Fuerzas y Cuerpos de Seguridad del Estado o un Juzgado.</p>
+
+         <h2>5 ¿Cuánto tiempo conservamos tus datos? </h2>
+        <p>Conservaremos tus datos personales mientras tu cuenta permanezca activa. Si decides eliminar tu cuenta, borraremos tu perfil público inmediatamente. Sin embargo, tus datos internos quedarán bloqueados (sin uso) durante un plazo de 3 a 5 años para poder atender posibles responsabilidades legales, civiles o penales derivadas de tu uso de la App (por ejemplo, si te ves involucrado en un accidente o un litigio con otro usuario). Transcurrido ese plazo legal, se eliminarán definitivamente.</p>
+
+         <h2>6. ¿Cuáles son tus derechos y cómo ejercerlos? </h2>
+        <p>La ley te otorga un control total sobre tus datos. Tienes derecho a:
+    • Acceder a los datos que tenemos sobre ti.
+    • Rectificar los datos inexactos (puedes cambiar tus W/kg desde tu perfil).
+    • Suprimir tus datos (solicitar el borrado de tu cuenta).
+    • Retirar tu consentimiento en cualquier momento para el uso de tu ubicación o datos de salud (lo que implicará no poder seguir usando las funciones principales de la App).
+    • Oponerte o limitar el tratamiento de tus datos.
+Para ejercer cualquiera de estos derechos, escríbenos a [aruedaapp@gmail.com] desde el correo con el que te registraste. Responderemos a tu solicitud en un plazo máximo de 30 días. Si consideras que no hemos tratado tus datos adecuadamente, tienes derecho a presentar una reclamación ante la Agencia Española de Protección de Datos (www.aepd.es).</p>
+ 
+      
+        </div>
+
+</body>
+</html>
